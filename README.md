@@ -1,4 +1,8 @@
-# alt-ime-ahk-mod
+# alt-ime-ahk-mod++
+
+alt-ime-ahk-modに加え、: <-> ;, ' <-> " をさらにswapしてshiftキーを押す回数を削減している 
+
+## alt-ime-ahk-mod
 
 forked from [karakaram/alt-ime-ahk](https://github.com/karakaram/alt-ime-ahk)  
 (意図的に Fork 元のリポジトリから切り離し、スタンドアロンリポジトリへ変換しています)

@@ -110,9 +110,6 @@ GitHubRepoReadme:
 *~}::
 *~\::
 *~|::
-*~;::
-*~'::
-*~"::
 *~,::
 *~<::
 *~.::
@@ -134,6 +131,12 @@ GitHubRepoReadme:
 *~PgUp::
 *~PgDn::
     Return
+
+$'::Send "
+$+'::Send '
+
+$`;::Send `:
+$+`;::Send `;
 
 ; 上部メニューがアクティブになるのを抑制 / Xbox Game Bar 起動用仮想キーコードとのバッティング回避 (vk07 -> vkFF)
 *~LAlt::
